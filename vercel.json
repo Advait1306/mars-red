@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://marscomputers.framer.website/$1"
+    },
+    {
+        "source": "/",
+        "destination": "https://marscomputers.framer.website/"
+    }
+  ]
+}
