@@ -3,11 +3,11 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://marscomputers.framer.website/$1"
+      "destination": "https://marscomputers.tech/$1"
     },
     {
-        "source": "/",
-        "destination": "https://marscomputers.framer.website/"
+      "source": "/",
+      "destination": "https://marscomputers.tech/"
     }
   ]
 }
